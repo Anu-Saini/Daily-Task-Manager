@@ -5,14 +5,14 @@ console.log(now)
 
 var events_= [  
   {
-    start: "Fri Jul 1 2022 08:00:00",
-    end: "Fri Jul 1 2022 08:45:00",
+    start: "Thu Jun 30 2022 08:00:00",
+    end: "Thu Jun 30 2022 08:45:00",
     isFinished: false,
     description: "to_market_for_shopping",
   },
   {
-    start: "Fri Jul 1 2022 10:00:00",
-    end: "Fri Jul 1 2022 10:30:00 ",
+    start: "Thu Jun 30 2022 10:00:00",
+    end: "Thu Jun 30 2022 10:30:00 ",
     isFinished: false,
     description: "car_rego payment arrangement",
   },
